@@ -8,6 +8,12 @@ Data flow:
 2. Get the callback @ the route set
 3. Get the form data in it
 
+<img width="554" alt="截圖 2024-08-21 晚上10 59 27" src="https://github.com/user-attachments/assets/df8d0f3e-220a-4ba3-98f8-87e49fdbc167">
+
+<img width="1001" alt="截圖 2024-08-21 晚上11 02 59" src="https://github.com/user-attachments/assets/d2f2e908-0782-4529-9873-92f48f43cc7b">
+
+<img width="658" alt="截圖 2024-08-21 晚上11 03 11" src="https://github.com/user-attachments/assets/2d36904f-65a2-458b-bdf7-ed344670ef10">
+
 ---
 
 # Welcome to Remix!
