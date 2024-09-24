@@ -37,13 +37,13 @@ export default function Index() {
       <p>您選擇的門市 ID：{store?.storeid}</p>
       <p>您選擇的門市名稱：{store?.storename}</p>
       <p>您選擇的門市地址：{store?.storeaddress}</p>
-      <button className="px-3.5 py-2 border rounded-md hover:bg-black hover:text-white transition-colors duration-200">
-        <a
-          href={`https://emap.presco.com.tw/c2cemap.ashx?eshopid=870&&servicetype=1&url=${callbackUrl}`}
-        >
+      <a
+        href={`https://emap.presco.com.tw/c2cemap.ashx?eshopid=870&&servicetype=1&url=${callbackUrl}`}
+      >
+        <button className="px-3.5 py-2 border rounded-md hover:bg-black hover:text-white transition-colors duration-200">
           點擊選擇門市
-        </a>
-      </button>
+        </button>
+      </a>
     </div>
   );
 }
