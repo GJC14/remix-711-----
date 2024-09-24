@@ -1,3 +1,15 @@
+# Welcome to the test for 711 store selection
+
+ref: [黃金俠：超商門市選擇器](https://marsz.tw/blog/articles/446-超商門市選擇器%28使用電子地圖查詢系統%29)
+
+Data flow:
+
+1. Open the selector
+2. Get the callback @ the route set
+3. Get the form data in it
+
+---
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
